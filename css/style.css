@@ -3,6 +3,9 @@ body {
 }
 h1 {
     color: orangered;
+    font-weight: 100;
+    letter-spacing: -0.025em;
+    font-size: 3.5rem;
 }
 nav ul {
     list-style: none;
@@ -16,4 +19,6 @@ nav ul li {
 .mac-list {
     font-size: 1.5rem;
     color: grey;
+    line-height: 1.25em;
+    margin-bottom: 0.5em;
 }
