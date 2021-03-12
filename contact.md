@@ -5,3 +5,5 @@ title: Contact Me
 ---
 # {{ title }}
 Do not contact me. If you absolutely must, you can email me at <daniel.hansen@confederationcollege.ca>, but I will ignore it.
+
+No, that's not true, I'm actually pretty helpful.
